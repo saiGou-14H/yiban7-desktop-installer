@@ -1,0 +1,7 @@
+# Keep this repository binary-only.
+# Do not add source code, service configuration, private keys, logs, or deployment files.
+*
+!README.md
+!.gitignore
+!download/
+!download/Yiban Desktop_0.1.16_x64_zh-CN.msi
