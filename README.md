@@ -4,13 +4,13 @@
 
 ## 下载安装
 
-- Windows 安装包：`download/Yiban Desktop_0.1.16_x64_zh-CN.msi`
-- 当前版本：`0.1.16`
-- 文件校验：`SHA256 85DDBC8EE3459479CCF0B8F52F457500CABDA82BC412157C28F7B4003D0A2B6F`
+- Windows 安装包：`download/Yiban Desktop_0.1.24_x64_zh-CN.msi`
+- 当前版本：`0.1.24`
+- 文件校验：`SHA256 8920F44736AF55D9BB2A87C63EB21B2FD3F235B4720156AA7CA8CE2169A8A463`
 
 安装方式：
 
-1. 下载 `Yiban Desktop_0.1.16_x64_zh-CN.msi`。
+1. 下载 `Yiban Desktop_0.1.24_x64_zh-CN.msi`。
 2. 双击安装包并按提示完成安装。
 3. 启动桌面客户端后，使用分配的代理商账号登录。
 

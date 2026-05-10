@@ -4,6 +4,6 @@
 !README.md
 !.gitignore
 !download/
-!download/Yiban Desktop_0.1.16_x64_zh-CN.msi
+!download/*.msi
 !screenshots/
 !screenshots/*.png
